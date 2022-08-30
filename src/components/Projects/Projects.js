@@ -35,7 +35,7 @@ const Projects = () => {
                 <h2 class="accordion-header" id="flush-headingOne">
                     <button class="accordion-button collapsed projects-section-header text-center" type="button"
                         data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="true" aria-controls="flush-collapseOne">
-                        HTML, JavaScript, CSS, React projects
+                        HTML, JavaScript, CSS, React projects...
                     </button>
                 </h2>
                 <div id="flush-collapseOne" class="accordion-collapse collapse show"
